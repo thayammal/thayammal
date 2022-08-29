@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Thayammal
 - 👀 I’m interested in Machine Learning and Data Science
-- 🌱 I’m currently learning the online course on Progamming and Data Science
+- 🌱 I’m currently learning the online degree on Progamming and Data Science from IITM
 - 💞️ I’m looking to work from home job
 
 
